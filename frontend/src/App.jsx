@@ -38,7 +38,7 @@ function ProtectedRoute({ children, allowedRole }) {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Smart-Student-Management">
       <Routes>
 
         <Route path="/" element={<Home />} />
