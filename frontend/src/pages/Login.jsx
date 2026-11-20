@@ -155,7 +155,7 @@ const styles = {
 container: {
   minHeight: "100vh",
   width: "100%",
-  backgroundImage: "url('/login-bg.png')",
+  backgroundImage: "url('/Smart-Student-Management/login-bg.png')",
   backgroundSize: "cover",
   backgroundPosition: "center top",
   backgroundRepeat: "no-repeat",
