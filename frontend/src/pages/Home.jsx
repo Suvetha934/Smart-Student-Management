@@ -93,7 +93,7 @@ const styles = {
   hero: {
     minHeight: "620px",
     backgroundImage:
-      "linear-gradient(rgba(8,35,75,0.45), rgba(8,35,75,0.45)), url('/home-bg.png')",
+      "linear-gradient(rgba(8,35,75,0.45), rgba(8,35,75,0.45)), url('/Smart-Student-Management/home-bg.png')",
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
